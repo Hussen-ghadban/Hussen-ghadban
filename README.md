@@ -14,4 +14,4 @@ I'm a full-stack developer who loves crafting clean, scalable web applications f
 - **APIs**: RESTful APIs, GraphQL
 - **Other Tools**: BullMQ (Redis), Git, Postman
 
-  Check out my old GitHub account: [https://github.com/hussenghadban](https://github.com/hussenghadban)
+  Check out my other GitHub account: [https://github.com/hussenghadban](https://github.com/hussenghadban)
