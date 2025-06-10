@@ -9,7 +9,7 @@ I'm a full-stack developer who loves crafting clean, scalable web applications f
 
 ### Tech Stack
 - **Languages**: TypeScript, JavaScript, HTML, CSS
-- **Frontend**: React, Tanstack React Query, Axios, Tailwind CSS, ShadCN
+- **Frontend**: React, Redux, Tanstack React Query, Axios, Tailwind CSS, ShadCN
 - **Backend**: Node.js, Express.js, MongoDB, PostgreSQL
 - **APIs**: RESTful APIs, GraphQL
 - **Other Tools**: BullMQ (Redis), Git, Postman, Yarn, VSCode
