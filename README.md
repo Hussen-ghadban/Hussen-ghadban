@@ -27,6 +27,7 @@ I'm a full-stack developer who loves crafting clean, scalable web applications f
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN_UI-%2320232a?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=zod&logoColor=white)
 
 #### Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -36,6 +37,7 @@ I'm a full-stack developer who loves crafting clean, scalable web applications f
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=zod&logoColor=white)
 
 #### Tools & DevOps  
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC2626?style=for-the-badge&logo=redis&logoColor=white)
