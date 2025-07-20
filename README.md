@@ -6,7 +6,7 @@ I'm a full-stack developer who loves crafting clean, scalable web applications f
 
 ### 👨‍💻 About Me
 
-- Full-stack developer with a focus on **TypeScript**, **Express.js**, and **React**
+- Full-stack developer with a focus on **TypeScript**, **Next.js**, **Express.js**, and **React** 
 - I build robust **RESTful** and **GraphQL** APIs, integrate smart filtering systems, and handle complex data flows
 - Passionate about system design, clean code, DevOps, and AWS — building scalable, maintainable systems with efficient infrastructure automation.
 
