@@ -23,11 +23,16 @@ I'm a full-stack developer who loves crafting clean, scalable web applications f
 #### Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4433FF?style=for-the-badge&logo=react&logoColor=white)
 ![Tanstack Query](https://img.shields.io/badge/TanStack_React_Query-ff4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN_UI-%2320232a?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=zod&logoColor=white)
+![Matter.js](https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge&logo=physics&logoColor=white)  
+![PixiJS](https://img.shields.io/badge/PixiJS-FFDD00?style=for-the-badge&logo=pixijs&logoColor=black)  
+![React Konva](https://img.shields.io/badge/React_Konva-FF6F61?style=for-the-badge&logo=react&logoColor=white)
 
 #### Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
