@@ -61,5 +61,3 @@ I'm a full-stack developer who loves crafting clean, scalable web applications f
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussen-ghadban&theme=monokai&hide_border=false&layout=compact)
 ---
 
-🔗 Check out my other GitHub account: [https://github.com/hussenghadban](https://github.com/hussenghadban)
-
